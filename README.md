@@ -1,7 +1,7 @@
 ## Olá, eu sou a Thais!
  <div>
   <a href="https://github.com/Thais-DN">
-  <img height="180em" src=""/>
+  <img height="180em" src="https://github.com/Thais-DN/Thais-DN/blob/main/me.png"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thais-DN&layout=compact&langs_count=7&theme=dark"/>
 </div>
  <div style="display: inline_block">
