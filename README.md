@@ -1,7 +1,6 @@
 ## Olá, eu sou a Thais!
  <div> 
-  <a href = "mailto:thais.dnunes@hotmail.com.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thais-dias-nunes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thais-dias-nunes"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 </div>
  <div>
   <a href="https://github.com/Thais-DN">
