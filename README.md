@@ -1,6 +1,6 @@
 ## Olá, eu sou a Thais!
  <div> 
-  <a href="https://www.linkedin.com/in/thais-dias-nunes"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+  <a href="https://www.linkedin.com/in/thais-dias-nunes-a578b12a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 </div>
  <div>
   <a href="https://github.com/Thais-DN">
