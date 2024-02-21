@@ -17,6 +17,6 @@
 
 <div> 
 
-  ![Snake animation](https://github.com/Thais-Dn/Thais-Dn/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Thais-DN/Thais-DN/blob/output/github-contribution-grid-snake.svg)
  
 </div>
